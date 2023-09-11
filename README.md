@@ -10,4 +10,6 @@
     use `q` to quit out of less
 
 `diff`: shows you the differences between your changes and last known git state
-`diff --staged`: shows you 
+`diff --staged`: shows you changes to files in the "staged" area
+`restore --staged <file>`:
+
