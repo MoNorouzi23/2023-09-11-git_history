@@ -10,6 +10,6 @@
     use `q` to quit out of less
 
 `diff`: shows you the differences between your changes and last known git state
-`diff --staged`: shows you changes to files in the "staged" area
-`restore --staged <file>`:
-
+`diff --staged`: shows you the diff of the files in the staging area 
+`restore --staged <file>`: unstage <file> from the staging area
+`revert <SHA1>`: undo the changes in the commit specified in <SHA1>
