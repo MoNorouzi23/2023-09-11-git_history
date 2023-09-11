@@ -7,4 +7,7 @@
 `log`: shows the log
     `log --oneline`: shows the log in condenced format
     this may opeb a terminal program called `less`that lets you scroll
-    
+    use `q` to quit out of less
+
+`diff`: shows you the differences between your changes and last known git state
+`diff --staged`: shows you 
